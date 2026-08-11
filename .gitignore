@@ -1,0 +1,19 @@
+# Dépendances téléchargées par npm.
+node_modules
+
+# Fichiers générés lors de la compilation.
+dist
+dist-ssr
+*.tsbuildinfo
+
+# Fichiers locaux propres à l'éditeur ou au système.
+*.local
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
